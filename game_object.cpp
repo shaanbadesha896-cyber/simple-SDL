@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include "SDL2/SDL_image.h"
 #include "game_object.h"
-#include "text_manager.h"
+#include "texture_manager.h"
 
 GameObject::GameObject(const char* texturesheet){
 	renderer = ren; 
