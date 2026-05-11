@@ -1,5 +1,5 @@
 #include "map.h"
-#include "text_manager.h"
+#include "texture_manager.h"
 #include <fstream>
 #include <sstream>
 
