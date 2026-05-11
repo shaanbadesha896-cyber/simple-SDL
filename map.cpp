@@ -6,7 +6,7 @@
 Map::Map(SDL_Renderer* ren){
     renderer = ren;
     tileTexture = TextureManager::LoadTexture("assets/PNG/pure_grass.png");
-    loadMap("assets/map.csv");
+    loadMap("assets/tiled map/map.csv");
 }
 
 void Map::loadMap(const char* filepath){
