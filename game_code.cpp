@@ -1,5 +1,5 @@
 #include "game_code.h"
-#include "text_manager.h"
+#include "texture_manager.h"
 #include "game_object.h"
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_events.h>
